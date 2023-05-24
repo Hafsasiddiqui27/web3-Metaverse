@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(223, 220, 220);
+    padding:20px;
+    margin:7px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    background-color: beige;
+}
+
+p {
+    padding: 3px;
+    margin: 0px;
+}
+
+p {
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.fourteen {
+    background-color: rgb(67, 109, 187);
+
+}
+
+p.thirteen {
+    background-color: rgba(20, 122, 206, 0.877);
+}
+
+p.twelve {
+    background-color: rgb(55, 162, 204);
+
+}
+
+p.eleven {
+    background-color: rgb(71, 179, 221);
+}
+
+p.ten {
+    background-color: rgba(113, 179, 233, 0.904);
+
+}
+
+p.nine {
+    background-color: rgba(136, 202, 223, 0.932);
+}
+
+p.eight {
+    background-color: rgb(189, 214, 247);
+}
+
+p.seven {
+    background-color: rgb(74, 194, 74);
+}
+
+p.six {
+    background-color: rgb(240, 201, 207);
+}
+
+p.five {
+    background-color: lightpink;
+}
+
+p.four {
+    background-color: rgb(250, 160, 174);
+}
+
+p.three {
+    background-color: rgb(243, 138, 156);
+}
+
+p.two {
+    background-color: rgb(241, 121, 141);
+}
+
+p.one {
+    background-color: rgb(226, 95, 117);
+
+}
+
+p.zero {
+    background-color: rgb(243, 43, 120);
+
+}
